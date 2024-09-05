@@ -1,0 +1,19 @@
+.form{
+    border: 2px solid blue;
+    margin: 10px;
+    color: black;
+    display: flex;
+    flex-direction: column;
+}
+
+input{
+    background-color: grey;
+    border-radius: 4px;
+    width: 20rem;
+    height: 1.5rem;
+    border: none;
+}
+
+label{
+    font-weight: bold;
+}
